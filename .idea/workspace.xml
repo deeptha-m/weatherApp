@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbb82652-52d8-4077-8374-15d86ab2c47e" name="Changes" comment="26/2022 進捗状況">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/weatherApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/Screenshot_20220921_222216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/java/com/example/njweather/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/btn_bg1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/btn_bg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/btn_bg4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/btn_bg5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/city_background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/androidTest/java/com/example/weatherapp/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/androidTest/java/com/example/njweather/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/java/com/example/weatherapp/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/drawable/btn_bg6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/btn_bg6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/drawable/weather_background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/drawable/weather_background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/app/src/test/java/com/example/weatherapp/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/app/src/test/java/com/example/njweather/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/weatherapp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FJjjZfjPNuAHFvcKxMFCL86aRO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb82652-52d8-4077-8374-15d86ab2c47e" name="Changes" comment="" />
+      <created>1664217218303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664217218303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <MESSAGE value="26/2022 進捗状況" />
+    <option name="LAST_COMMIT_MESSAGE" value="26/2022 進捗状況" />
+  </component>
+</project>
