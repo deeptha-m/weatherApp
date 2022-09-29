@@ -4,6 +4,7 @@ import android.Manifest
 import android.annotation.SuppressLint
 import android.content.pm.PackageManager
 import android.location.Location
+import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
@@ -36,12 +37,15 @@ class MainActivity : AppCompatActivity() {
         textView = findViewById(R.id.textView)
         //create an instance of the Fused Location Provider Client
 
-        if (ContextCompat.checkSelfPermission(
-                this,
-                Manifest.permission.ACCESS_FINE_LOCATION
-            ) !==
-            PackageManager.PERMISSION_GRANTED
-        ) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M)
+
+        {when(checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION))
+        {
+
+                PackageManager.PERMISSION_GRANTED -> {}
+                PackageManager.PERMISSION_DENIED -> {}
+
+        }
             if (ActivityCompat.shouldShowRequestPermissionRationale(
                     this@MainActivity,
                     Manifest.permission.ACCESS_FINE_LOCATION
