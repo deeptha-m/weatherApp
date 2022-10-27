@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     //weather url to get JSON
     var weather_url1 = ""
     //api id for url
-    var api_id1 = "6432d1c22b32445a809871688125500b"
+    var api_id1 = "d47f168b2bc6442699fec16296523482"
     private lateinit var textView: TextView
     private lateinit var fusedLocationClient: FusedLocationProviderClient
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -42,8 +42,18 @@ class MainActivity : AppCompatActivity() {
         {when(checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION))
         {
 
-                PackageManager.PERMISSION_GRANTED -> {}
-                PackageManager.PERMISSION_DENIED -> {}
+                PackageManager.PERMISSION_GRANTED -> {
+                    fusedLocationClient = LocationServices.getFusedLocationProviderClient(this)
+                    Log.e("lat", weather_url1)
+                    btVar1.setOnClickListener {
+                        Log.e("lat", "onClick")
+                        //function to find the coordinates of the last location
+                        obtainLocation()
+                    }
+                }
+                PackageManager.PERMISSION_DENIED -> {
+
+                }
 
         }
             if (ActivityCompat.shouldShowRequestPermissionRationale(
