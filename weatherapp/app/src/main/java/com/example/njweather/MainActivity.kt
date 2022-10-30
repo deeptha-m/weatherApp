@@ -65,14 +65,14 @@ class MainActivity : AppCompatActivity() {
                     this@MainActivity,
                     arrayOf(Manifest.permission.ACCESS_FINE_LOCATION), 1
                 )
-                fusedLocationClient = LocationServices.getFusedLocationProviderClient(this)
+               /* fusedLocationClient = LocationServices.getFusedLocationProviderClient(this)
                 Log.e("lat", weather_url1)
                 //on clicking this button function to get the coordinates will be called
                 btVar1.setOnClickListener {
                     Log.e("lat", "onClick")
                     //function to find the coordinates of the last location
                     obtainLocation()
-                }
+                }*/
             } else {
                 ActivityCompat.requestPermissions(
                     this@MainActivity,
